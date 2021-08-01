@@ -2,15 +2,17 @@
 
 ## 简介
 
-《C++ Primer 中文版（第 5 版）》学习仓库，包括**笔记**和**课后练习答案**。
+[《C++ Primer 中文版（第 5 版）》](https://book.douban.com/subject/25708312/)学习仓库，包括**笔记**和**课后练习答案**。
+
+
 
 ## 环境
 
-- system: ubuntu 16.04
+- system: Windows 10
 - IDE: VS Code
-- compiler: g++
+- compiler: GCC
 
-[豆瓣链接](https://book.douban.com/subject/25708312/)
+
 
 ## 目录
 
@@ -38,10 +40,14 @@
   - 第18章 : 用于大型程序的工具  [笔记](https://github.com/uangunai/Cpp_Primer_Practice/tree/master/notes/ch18.md)  [练习](https://github.com/uangunai/Cpp_Primer_Practice/tree/master/excersize/ch18.md)
   - 第19章 : 特殊工具与技术  [笔记](https://github.com/uangunai/Cpp_Primer_Practice/tree/master/notes/ch19.md)  [练习](https://github.com/uangunai/Cpp_Primer_Practice/tree/master/excersize/ch19.md)
 
+
+
 ## 参考
 
 - [C++ Primer 5 Answers(C++11/14)](https://github.com/Mooophy/Cpp-Primer)
 - [《C++ Primer》第五版中文版习题答案](https://github.com/huangmingchuan/Cpp_Primer_Answers)
+
+
 
 ## 参与贡献
 
