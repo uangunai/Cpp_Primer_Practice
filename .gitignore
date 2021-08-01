@@ -6,5 +6,5 @@ CMakeLists.txt
 main
 .DS_Store
 .vscode
-vc60.idb
-vc60.pdb
+.idb
+.pdb
